@@ -7,6 +7,11 @@
 <br /><br />
 > O apontamento é para o host http://localhost:8085
 
+## Requisitos
+
+> Python 3.x<br />
+> Docker
+
 ## Execução do projeto
 
 ### Executar com Docker
