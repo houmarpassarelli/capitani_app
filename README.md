@@ -1,6 +1,7 @@
 # TESTE DE APP EM PYTHON
 > O projeto consiste em uma aplicação monólito usando flask. <br />
 > A interface é bem simples, somente para receber um arquivo no formato .txt.
+> Após o processamento existe um retorno para download do arquivo CSV.
 <br /><br />
 > Há duas formas de execução: usando o docker e via terminal.<br />
 > A porta foi alterada para ser executado em 8085.
