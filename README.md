@@ -15,7 +15,8 @@
 
 ## Decisões do projeto
 
-> Uma das decisões que tomei foi implementar um pequeno processo de execução via Docker, pois eu mesmo tive problemas com a versão do python, onde eu tenho duas no meu ambiente de trabalho. 
+> Uma das decisões que tomei foi implementar um pequeno processo de execução via Docker, pois eu mesmo tive problemas com a versão do python, onde eu tenho duas no meu ambiente de trabalho.<br />
+> Outra decisão foi, criar primeiramente o processo principal, que é gerar o relatório final, para depois partir para um interface mais amigável.
 
 ## Requisitos
 
