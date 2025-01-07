@@ -10,8 +10,12 @@
 
 ## Melhorias futuras
 
-> Para futuras melhorias pode-se implementar um solução que aceite mais tipos de arquivos e/ou registro temporário no formulário, criando uma listagem manual por exemplo.
+> Para futuras melhorias pode-se implementar um solução que aceite mais tipos de arquivos e/ou registro temporário no formulário, criando uma listagem manual por exemplo.<br />
 > Outra abordagem seria a possibilidade de criar um processo de extração de outras fontes de dados.
+
+## Decisões do projeto
+
+> Uma das decisões que tomei foi implementar um pequeno processo de execução via Docker, pois eu mesmo tive problemas com a versão do python, onde eu tenho duas no meu ambiente de trabalho. 
 
 ## Requisitos
 
