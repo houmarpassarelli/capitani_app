@@ -8,6 +8,11 @@
 <br /><br />
 > O apontamento é para o host http://localhost:8085
 
+## Melhorias futuras
+
+> Para futuras melhorias pode-se implementar um solução que aceite mais tipos de arquivos e/ou registro temporário no formulário, criando uma listagem manual por exemplo.
+> Outra abordagem seria a possibilidade de criar um processo de extração de outras fontes de dados.
+
 ## Requisitos
 
 > Python 3.x<br />
